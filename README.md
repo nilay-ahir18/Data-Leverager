@@ -92,7 +92,7 @@ The project integrates data from multiple Excel files and a web source, performs
 
 ### Web Data Import
 
-![Web Import]("E:\pbss\Webimport.png")
+![Web Import]("Screenshots/Webimport.png")
 
 ### Sales Data Cleaning
 
